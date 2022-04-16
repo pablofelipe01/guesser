@@ -25,9 +25,7 @@ const updateScore = winner => {
       humanScore++
     } else if (winner === 'human') {
       computerScore++
-    } else {
-      console.log (error)
-    }
+    } 
   
   }
 
